@@ -1,2 +1,2 @@
-# web-tugas-sekolah-2026
+# kalkulator
 aplikasi web untuk tugas sekolah
