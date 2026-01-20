@@ -1,2 +1,1 @@
-# kalkulator
-aplikasi web untuk tugas sekolah
+index.html
